@@ -16,4 +16,7 @@ public class Customer
     // Collection navigation property
     public virtual ICollection<BookPurchase> Purchases { get; set; }
     
+    [Phone]
+    public string PhoneNumber { get; set; } //New property added
+    
 }

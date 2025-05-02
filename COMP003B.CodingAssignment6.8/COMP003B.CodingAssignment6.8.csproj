@@ -2,6 +2,7 @@
 
     <PropertyGroup>
         <TargetFramework>net8.0</TargetFramework>
+        <UserSecretsId>47B4E964-C07E-4036-A28B-C6B68C385A58</UserSecretsId>
         <Nullable>enable</Nullable>
         <ImplicitUsings>enable</ImplicitUsings>
         <RootNamespace>COMP003B.CodingAssignment6._8</RootNamespace>

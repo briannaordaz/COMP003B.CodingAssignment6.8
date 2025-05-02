@@ -1,4 +1,5 @@
 using System.ComponentModel.DataAnnotations;
+using System.Runtime.CompilerServices;
 
 namespace COMP003B.CodingAssignment6._8.Models;
 
@@ -15,4 +16,6 @@ public class Book
     // Collection navigation property
     
     public virtual ICollection<BookPurchase> Purchases { get; set; }
+    
+    
 }

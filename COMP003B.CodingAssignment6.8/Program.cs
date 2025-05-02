@@ -1,4 +1,8 @@
+using COMP003B.CodingAssignment6._8.Data;
+
 namespace COMP003B.CodingAssignment6._8;
+using COMP003B.CodingAssignment6._8.Models;
+using Microsoft.EntityFrameworkCore;
 
 public class Program
 {
@@ -8,6 +12,10 @@ public class Program
 
         // Add services to the container.
         builder.Services.AddControllersWithViews();
+        
+        //Set up the database context.
+        builder.Services.AddDbContext<WebDevAcademyContext>(options =>
+            options.UseSqlite(builder.Configuration.GetConnectionString("DefaultConnection")));
 
         var app = builder.Build();
 
