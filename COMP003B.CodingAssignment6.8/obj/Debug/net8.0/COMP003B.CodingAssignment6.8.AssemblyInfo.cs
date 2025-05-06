@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("COMP003B.CodingAssignment6.8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0256b094529dd50b0f1ce0c82b6a828258712335")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bded743915ef16b4cb034ba06534b79b827821fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("COMP003B.CodingAssignment6.8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("COMP003B.CodingAssignment6.8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

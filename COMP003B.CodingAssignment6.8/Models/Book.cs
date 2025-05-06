@@ -15,7 +15,9 @@ public class Book
     
     // Collection navigation property
     
-    public virtual ICollection<BookPurchase> Purchases { get; set; }
+    public virtual ICollection<BookPurchase>? Purchases { get; set; }
     
     
 }
+
+
