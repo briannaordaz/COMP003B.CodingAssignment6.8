@@ -9,6 +9,7 @@ using COMP003B.CodingAssignment6._8.Data;
 using COMP003B.CodingAssignment6._8.Models;
 
 //controller
+//BookPurchases
 namespace COMP003B.CodingAssignment6._8.Controllers
 {
     public class BookPurchasesController : Controller

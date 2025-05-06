@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using COMP003B.CodingAssignment6._8.Data;
 using COMP003B.CodingAssignment6._8.Models;
 //controller
+//Customers
 
 namespace COMP003B.CodingAssignment6._8.Controllers
 {
