@@ -26,26 +26,6 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/brianna/RiderProjects/COMP003B.CodingAssignment6.8/COMP003B.CodingAssignment6.8
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/brianna/RiderProjects/COMP003B.CodingAssignment6.8/COMP003B.CodingAssignment6.8/Views/BookPurchases/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va1B1cmNoYXNlcy9DcmVhdGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/brianna/RiderProjects/COMP003B.CodingAssignment6.8/COMP003B.CodingAssignment6.8/Views/BookPurchases/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va1B1cmNoYXNlcy9EZWxldGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/brianna/RiderProjects/COMP003B.CodingAssignment6.8/COMP003B.CodingAssignment6.8/Views/BookPurchases/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va1B1cmNoYXNlcy9EZXRhaWxzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/brianna/RiderProjects/COMP003B.CodingAssignment6.8/COMP003B.CodingAssignment6.8/Views/BookPurchases/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va1B1cmNoYXNlcy9FZGl0LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[/Users/brianna/RiderProjects/COMP003B.CodingAssignment6.8/COMP003B.CodingAssignment6.8/Views/BookPurchases/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va1B1cmNoYXNlcy9JbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/brianna/RiderProjects/COMP003B.CodingAssignment6.8/COMP003B.CodingAssignment6.8/Views/Books/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9va3MvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
